@@ -1,4 +1,4 @@
-# hessMaster-Java
+# ChessMaster-Java
 
 A comprehensive Chess Engine and GUI application built with Java 17. This project demonstrates advanced Object-Oriented Programming (OOP) principles, clean architecture, and the implementation of several key Software Design Patterns.
 
@@ -15,7 +15,7 @@ A comprehensive Chess Engine and GUI application built with Java 17. This projec
 * **JSON Storage:** Game states and user accounts are persisted via JSON, allowing you to **Save and Resume** matches later.
 * **Point System:** Earn points for capturing pieces and winning games using custom scoring strategies.
 
-## esign Patterns Applied
+## Design Patterns Applied
 
 | Pattern | Description |
 | :--- | :--- |
@@ -24,7 +24,7 @@ A comprehensive Chess Engine and GUI application built with Java 17. This projec
 | **Observer** | Implemented via `GameObserver` to update the UI and log game events without tight coupling. |
 | **Singleton** | Ensures a single source of truth for the application state through `Main` and `Main2` controllers. |
 
-##Tech Stack
+## Tech Stack
 * **Language:** Java 17+
 * **GUI Framework:** Java Swing / AWT
 * **Data Format:** JSON (via `json-simple`)
