@@ -1,0 +1,68 @@
+[
+  {
+    "email": "ana@example.com",
+    "password": "parolaAna",
+    "points": 680,
+    "games": []
+  },
+  {
+    "email": "mihai@example.com",
+    "password": "parolaMihai",
+    "points": 1225,
+    "games": []
+  },
+  {
+    "email": "ioana@example.com",
+    "password": "parolaIoana",
+    "points": 300,
+    "games": [5]
+  },
+  {
+    "email": "george@example.com",
+    "password": "parolaGeorge",
+    "points": 795,
+    "games": []
+  },
+  {
+    "email": "andrei@example.com",
+    "password": "parolaAndrei",
+    "points": 1550,
+    "games": []
+  },
+  {
+    "email": "elena@example.com",
+    "password": "parolaElena",
+    "points": 0,
+    "games": [9]
+  },
+  {
+    "email": "roxana@example.com",
+    "password": "parolaRoxana",
+    "points": 1690,
+    "games": []
+  },
+  {
+    "email": "vlad@example.com",
+    "password": "parolaVlad",
+    "points": 775,
+    "games": []
+  },
+  {
+    "email": "denis@example.com",
+    "password": "a",
+    "points": 1050,
+    "games": [10, 12, 13, 14, 15]
+  },
+  {
+    "email": "eliza@example.com",
+    "password": "aaaa",
+    "points": 690,
+    "games": [11]
+  },
+  {
+    "email": "dragos@example.com",
+    "password": "parola",
+    "points": 630,
+    "games": [16]
+  }
+]
