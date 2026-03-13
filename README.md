@@ -47,4 +47,4 @@ A comprehensive Chess Engine and GUI application built with Java 17. This projec
 ### How to Run
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yourusername/ChessMaster-Java.git](https://github.com/yourusername/ChessMaster-Java.git)
+   git clone [git@github.com:denix372/Chess-Game.git](https://github.com/denix372/Chess-Game)
